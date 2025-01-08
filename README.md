@@ -1,5 +1,5 @@
 
-[<img src='(https://i.ibb.co.com/4RTdgM1/HI-I-am-Saidur-Rahman.png)' alt='github' height='40'>]
+[<img src='(https://i.ibb.co.com/4RTdgM1/HI-I-am-Saidur-Rahman.png)']
 ### Hi I Am Saidur 👋, 
 #### I am Front End Developer
 ![I am Front End Developer]
