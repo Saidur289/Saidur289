@@ -1,8 +1,8 @@
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saidur289)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Saidur/)  
-### Hi there 👋, I Am Saidur
+[<img src='(https://i.ibb.co.com/4RTdgM1/HI-I-am-Saidur-Rahman.png)' alt='github' height='40'>]
+### Hi I Am Saidur 👋, 
 #### I am Front End Developer
-![I am Front End Developer](https://i.ibb.co.com/4RTdgM1/HI-I-am-Saidur-Rahman.png)
+![I am Front End Developer]
 
 I am a passionate front-end developer skilled in HTML, CSS, JavaScript, and React. I specialize in creating responsive and dynamic websites with a focus on user experience and modern design. I enjoy building projects that bring creative ideas to life
 
