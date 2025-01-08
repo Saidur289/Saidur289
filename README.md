@@ -24,6 +24,4 @@ Skills: REACT / JS / HTML / CSS/ Node.Js/MongoDB
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Saidur289/contributions?format=svg&private=true)  
 
 
-## My Streak
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Saidur289)  
 
