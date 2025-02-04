@@ -7,13 +7,15 @@ I am a passionate front-end developer skilled in HTML, CSS, JavaScript, and Reac
 
 Skills: REACT / JS / HTML / CSS/ Node.Js/MongoDB
 
-- 🔭 I’m currently working on Github 
-- 🌱 I’m currently learning Javascript 
-- 💬 Ask me about Web Developing 
-- ⚡ Fun fact: I love Football 
+- 🔭 I’m currently working on GitHub  
+- 🌱 I’m currently learning JavaScript & Next.js  
+- 💬 Ask me about Web Developing  
+- ⚡ Fun fact: I love Football  
+
 
 ## Social Links
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saidur289)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Saidur/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saidur289)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidur-riaz1/)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 ## My Language
