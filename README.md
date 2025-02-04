@@ -19,7 +19,9 @@ Skills: REACT / JS / HTML / CSS/ Node.Js/MongoDB
 ## My Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidur289)](https://github.com/anuraghazra/github-readme-stats)
 ## My State
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saidur289&show_icons=true&count_private=true)  
+## 🔥 My GitHub Streak  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Saidur289)](https://git.io/streak-stats)
+
 ## My Badge
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Saidur289/contributions?format=svg&private=true)  
 
