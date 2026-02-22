@@ -1,38 +1,32 @@
-<!-- HEADER BANNER -->
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=200&section=header&text=Saidur%20Rahman&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=210&section=header&text=Saidur%20Rahman&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<!-- TYPING INTRO -->
+<!-- TYPING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=24&center=true&vCenter=true&width=600&lines=Front-End+Developer;Next.js+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=22C55E&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;Next.js+Learner;Building+Scalable+Web+Apps;Always+Learning+New+Things"/>
 </p>
+
+---
+
+<h3 align="center">🚀 Frontend Developer | Future Full Stack Engineer</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🚀 Frontend Developer passionate about building modern web apps  
-- 🌱 Currently learning **Next.js + TypeScript + Backend Architecture**  
+- 🔥 Passionate about building modern web applications  
+- ⚡ Focused on performance + clean UI + scalability  
+- 🌱 Currently mastering **Next.js + TypeScript + Backend Systems**  
 - 💡 Love solving real-world problems with code  
-- ⚡ Fun fact: I love football ⚽  
+- ⚽ Football lover  
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Tech Arsenal
 
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,git,github,vscode&perline=8" />
 </p>
 
 ---
@@ -40,46 +34,50 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saidur289&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidur289&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saidur289&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidur289&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=86400"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Saidur289&theme=tokyonight&border_radius=5"/>
+<img src="https://streak-stats.demolab.com?user=Saidur289&theme=tokyonight&border_radius=10"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Saidur289&theme=tokyonight&row=1&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Saidur289&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://github.com/Saidur289"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://www.linkedin.com/in/saidur-riaz1/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/Saidur289">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/saidur-riaz1/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 👀 Visitor Counter
+## 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Saidur289&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Saidur289&label=Visitors&color=6366f1&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-✨ *“Code. Learn. Build. Repeat.”* ✨
+✨ <b>Code. Build. Learn. Repeat.</b> ✨
 </p>
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0ea5e9&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4f46e5&height=130&section=footer"/>
 </p>
